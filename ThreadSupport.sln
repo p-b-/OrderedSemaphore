@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadSupport", "ThreadSupport\ThreadSupport.csproj", "{2EA858A7-53D1-4A05-BD5B-CA4AEDA4B64F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderedSemaphoreTests", "OrderedSemaphoreTests\OrderedSemaphoreTests.csproj", "{FDC0C58F-61B0-486F-A1AE-21BEDDBEF9C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EA858A7-53D1-4A05-BD5B-CA4AEDA4B64F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA858A7-53D1-4A05-BD5B-CA4AEDA4B64F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA858A7-53D1-4A05-BD5B-CA4AEDA4B64F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA858A7-53D1-4A05-BD5B-CA4AEDA4B64F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDC0C58F-61B0-486F-A1AE-21BEDDBEF9C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDC0C58F-61B0-486F-A1AE-21BEDDBEF9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDC0C58F-61B0-486F-A1AE-21BEDDBEF9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDC0C58F-61B0-486F-A1AE-21BEDDBEF9C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82E9E956-5313-4C2B-973C-6C156C3FD301}
+	EndGlobalSection
+EndGlobal
